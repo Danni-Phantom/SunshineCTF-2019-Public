@@ -1,3 +1,7 @@
+# Forked by MagicMicah
+This has the offical problems, the official solutions, and my writeups and solutions.
+
+
 # SunshineCTF 2019 Challenges
 
 This repo is to be used by challenge authors to host the sources of SunshineCTF 2019 challenges.
